@@ -1,0 +1,14 @@
+{
+  "sha256": "8546fe59b57bcf82db0a5a9def1aa41ae4567c0c27aaa891366e5ba68bd6d2d2",
+  "fixtures": [
+    "gameover with both choices",
+    "four shops intro and item selection",
+    "ending, rolling credits, collection rate",
+    "enemy database portraits",
+    "save menu"
+  ],
+  "save_roundtrip": "not verified; direct-call harness also fails on original ROM",
+  "fixture_note": "Scene entrances and discovery list set only in emulator RAM. Shipped ROM and user saves are untouched.",
+  "database_definitions": 30,
+  "enemy_types": 30
+}

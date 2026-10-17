@@ -1,0 +1,75 @@
+[
+  {
+    "frames": 1100,
+    "name": "title"
+  },
+  {
+    "frames": 1,
+    "keys": [
+      8
+    ]
+  },
+  {
+    "frames": 100,
+    "name": "intro1"
+  },
+  {
+    "frames": 1,
+    "keys": [
+      8
+    ]
+  },
+  {
+    "frames": 100,
+    "name": "intro2"
+  },
+  {
+    "frames": 1,
+    "keys": [
+      8
+    ]
+  },
+  {
+    "frames": 100,
+    "name": "intro3"
+  },
+  {
+    "frames": 1,
+    "keys": [
+      8
+    ]
+  },
+  {
+    "frames": 100,
+    "name": "game"
+  },
+  {
+    "frames": 1,
+    "keys": [
+      3
+    ]
+  },
+  {
+    "frames": 90,
+    "name": "inventory"
+  },
+  {
+    "frames": 1,
+    "keys": [
+      3
+    ]
+  },
+  {
+    "frames": 20
+  },
+  {
+    "frames": 1,
+    "keys": [
+      2
+    ]
+  },
+  {
+    "frames": 90,
+    "name": "save"
+  }
+]

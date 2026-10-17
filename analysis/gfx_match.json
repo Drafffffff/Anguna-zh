@@ -1,0 +1,254 @@
+[
+  {
+    "file": "splashMenu.c",
+    "symbol": "angunaMainMenuPal",
+    "bytes": 512,
+    "offset": "0x34fa8"
+  },
+  {
+    "file": "splashMenu.c",
+    "symbol": "angunaMainMenuTiles",
+    "bytes": 29184,
+    "offset": "0x2dda8"
+  },
+  {
+    "file": "splashMenu.c",
+    "symbol": "angunaMainMenuMap",
+    "bytes": 1408,
+    "offset": "0x2d828"
+  },
+  {
+    "file": "dayMenuNewGame.c",
+    "symbol": "dayMenuNewGameTiles",
+    "bytes": 5632,
+    "offset": null
+  },
+  {
+    "file": "dayMenuNewGame.c",
+    "symbol": "dayMenuNewGameMap",
+    "bytes": 176,
+    "offset": null
+  },
+  {
+    "file": "bg_gameover.c",
+    "symbol": "bg_gameoverPal",
+    "bytes": 512,
+    "offset": "0x41908"
+  },
+  {
+    "file": "bg_gameover.c",
+    "symbol": "bg_gameoverTiles",
+    "bytes": 27968,
+    "offset": "0x3abc8"
+  },
+  {
+    "file": "bg_gameover.c",
+    "symbol": "bg_gameoverMap",
+    "bytes": 1408,
+    "offset": "0x3a648"
+  },
+  {
+    "file": "spriteAttack.c",
+    "symbol": "spriteAttackPal",
+    "bytes": 512,
+    "offset": null
+  },
+  {
+    "file": "spriteAttack.c",
+    "symbol": "spriteAttackTiles",
+    "bytes": 13504,
+    "offset": null
+  },
+  {
+    "file": "spriteAttack.c",
+    "symbol": "spriteAttackMap",
+    "bytes": 1536,
+    "offset": null
+  },
+  {
+    "file": "menuTopNoTitle.c",
+    "symbol": "menuTopNoTitleTiles",
+    "bytes": 25024,
+    "offset": null
+  },
+  {
+    "file": "menuTopNoTitle.c",
+    "symbol": "menuTopNoTitleMap",
+    "bytes": 1536,
+    "offset": null
+  },
+  {
+    "file": "menuTopNoTitle.c",
+    "symbol": "menuTopCombinedPal",
+    "bytes": 512,
+    "offset": null
+  },
+  {
+    "file": "mainMenuTitleTop.c",
+    "symbol": "mainMenuTitleTopTiles",
+    "bytes": 32704,
+    "offset": null
+  },
+  {
+    "file": "mainMenuTitleTop.c",
+    "symbol": "mainMenuTitleTopMap",
+    "bytes": 1536,
+    "offset": null
+  },
+  {
+    "file": "mainMenuTitleTop.c",
+    "symbol": "mainMenuTitleTopPal",
+    "bytes": 512,
+    "offset": null
+  },
+  {
+    "file": "overworld_minimap.c",
+    "symbol": "overworld_minimapPal",
+    "bytes": 32,
+    "offset": "0x4a00c"
+  },
+  {
+    "file": "overworld_minimap.c",
+    "symbol": "overworld_minimapTiles",
+    "bytes": 3840,
+    "offset": null
+  },
+  {
+    "file": "overworld_minimap.c",
+    "symbol": "overworld_minimapMap",
+    "bytes": 240,
+    "offset": "0xc0d84"
+  },
+  {
+    "file": "hud.c",
+    "symbol": "hud_Pal",
+    "bytes": 32,
+    "offset": "0x2d808"
+  },
+  {
+    "file": "hud.c",
+    "symbol": "hud_ButtonPal",
+    "bytes": 32,
+    "offset": "0x2d7e8"
+  },
+  {
+    "file": "hud.c",
+    "symbol": "minimap_Pal",
+    "bytes": 32,
+    "offset": "0x2d7c8"
+  },
+  {
+    "file": "hud.c",
+    "symbol": "hud_Tiles",
+    "bytes": 10240,
+    "offset": "0x2afc8"
+  },
+  {
+    "file": "menuBottomDay.c",
+    "symbol": "menuBottomDayTiles",
+    "bytes": 49152,
+    "offset": null
+  },
+  {
+    "file": "menuBottomDay.c",
+    "symbol": "menuBottomDayMap",
+    "bytes": 1536,
+    "offset": null
+  },
+  {
+    "file": "menuBottomDay.c",
+    "symbol": "menuBottomDayPal",
+    "bytes": 512,
+    "offset": null
+  },
+  {
+    "file": "chiliBite.c",
+    "symbol": "chiliBitePal",
+    "bytes": 32,
+    "offset": "0x38268"
+  },
+  {
+    "file": "chiliBite.c",
+    "symbol": "chiliBiteTiles",
+    "bytes": 11200,
+    "offset": "0x356a8"
+  },
+  {
+    "file": "chiliBite.c",
+    "symbol": "chiliBiteMap",
+    "bytes": 1280,
+    "offset": "0x351a8"
+  },
+  {
+    "file": "mainCharGfx.c",
+    "symbol": "mc_Pal",
+    "bytes": 32,
+    "offset": "0x48d2c"
+  },
+  {
+    "file": "mainCharGfx.c",
+    "symbol": "mc_upTiles",
+    "bytes": 4096,
+    "offset": "0x47d08"
+  },
+  {
+    "file": "mainCharGfx.c",
+    "symbol": "mc_downTiles",
+    "bytes": 4096,
+    "offset": "0x46d08"
+  },
+  {
+    "file": "mainCharGfx.c",
+    "symbol": "mc_leftTiles",
+    "bytes": 4096,
+    "offset": "0x45d08"
+  },
+  {
+    "file": "cutscene_dungeonWindow.c",
+    "symbol": "cutscene_dungeonWindowPal",
+    "bytes": 512,
+    "offset": "0x28148"
+  },
+  {
+    "file": "cutscene_dungeonWindow.c",
+    "symbol": "cutscene_dungeonWindowTiles",
+    "bytes": 25984,
+    "offset": "0x21bc8"
+  },
+  {
+    "file": "cutscene_dungeonWindow.c",
+    "symbol": "cutscene_dungeonWindowMap",
+    "bytes": 1280,
+    "offset": "0x216c8"
+  },
+  {
+    "file": "cutscene_gameStart.c",
+    "symbol": "cutscene_gameStartPal",
+    "bytes": 512,
+    "offset": "0x214c8"
+  },
+  {
+    "file": "cutscene_gameStart.c",
+    "symbol": "cutscene_gameStartTiles",
+    "bytes": 26816,
+    "offset": "0x1ac08"
+  },
+  {
+    "file": "cutscene_gameStart.c",
+    "symbol": "cutscene_gameStartMap",
+    "bytes": 1280,
+    "offset": "0x1a708"
+  },
+  {
+    "file": "angel.c",
+    "symbol": "angelPal",
+    "bytes": 32,
+    "offset": "0x48d2c"
+  },
+  {
+    "file": "angel.c",
+    "symbol": "angelTiles",
+    "bytes": 4096,
+    "offset": "0x48fec"
+  }
+]

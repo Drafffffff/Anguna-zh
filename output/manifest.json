@@ -1,0 +1,169 @@
+{
+  "original_sha256": "1df5a07fef92a526768333d041eec42d4efabfba1ad50e347b8146954ed07ff5",
+  "sha256": "8546fe59b57bcf82db0a5a9def1aa41ae4567c0c27aaa891366e5ba68bd6d2d2",
+  "bytes": 1818156,
+  "translations": 224,
+  "glyphs": 434,
+  "font": "Fusion Pixel zh_Hans: opening and ending narration 12px, compact UI 8px (SIL OFL 1.1)",
+  "opening_pages": [
+    {
+      "page": 1,
+      "font_px": 12,
+      "tiles": 49,
+      "lines": [
+        [
+          24,
+          "真倒霉，你竟然被怪物抓住了。"
+        ],
+        [
+          64,
+          "又一次。"
+        ]
+      ]
+    },
+    {
+      "page": 2,
+      "font_px": 12,
+      "tiles": 103,
+      "lines": [
+        [
+          24,
+          "你原本肩负使命，"
+        ],
+        [
+          40,
+          "去寻找并击败怪物的首领——"
+        ],
+        [
+          56,
+          "巨龙。"
+        ],
+        [
+          84,
+          "可你偏偏被抓住了……"
+        ]
+      ]
+    },
+    {
+      "page": 3,
+      "font_px": 12,
+      "tiles": 117,
+      "lines": [
+        [
+          24,
+          "所幸，和往常一样，"
+        ],
+        [
+          40,
+          "他们没有拿走你的剑。"
+        ],
+        [
+          64,
+          "现在，干掉这些丑陋的小守卫，"
+        ],
+        [
+          80,
+          "逃出去，继续你的任务吧……"
+        ]
+      ]
+    }
+  ],
+  "ending_lines": [
+    {
+      "address": "0x1abd68",
+      "text": "你击败了",
+      "font_px": 12
+    },
+    {
+      "address": "0x1abd80",
+      "text": "怪物们的首领——",
+      "font_px": 12
+    },
+    {
+      "address": "0x1abd98",
+      "text": "巨龙！",
+      "font_px": 12
+    },
+    {
+      "address": "0x1abda8",
+      "text": "你也终于回到了",
+      "font_px": 12
+    },
+    {
+      "address": "0x1abdc4",
+      "text": "熟悉的土地。",
+      "font_px": 12
+    },
+    {
+      "address": "0x1abddc",
+      "text": "如今可以安心",
+      "font_px": 12
+    },
+    {
+      "address": "0x1abdf8",
+      "text": "回家了。",
+      "font_px": 12
+    }
+  ],
+  "ending_tiles": 100,
+  "text_hook": "0x81b2000",
+  "status_hook": "0x81b23ac",
+  "cache_slots": 176,
+  "graphics": {
+    "title": {
+      "tiles_used": 435,
+      "tiles_capacity": 456,
+      "map_offset": "0x2d828",
+      "tiles_offset": "0x2dda8",
+      "palette_unchanged": true,
+      "selection_indices": [
+        254,
+        255
+      ]
+    },
+    "gameover": {
+      "tiles_used": 404,
+      "tiles_capacity": 437,
+      "map_offset": "0x3a648",
+      "tiles_offset": "0x3abc8",
+      "palette_unchanged": true,
+      "selection_indices": [
+        16,
+        33
+      ]
+    }
+  },
+  "bps_roundtrip_verified": true,
+  "runtime_checks": {
+    "sha256": "8546fe59b57bcf82db0a5a9def1aa41ae4567c0c27aaa891366e5ba68bd6d2d2",
+    "translated_records_checked": 224,
+    "opening_12px_pages_checked": 3,
+    "ending_12px_lines_checked": 7,
+    "credit_row_wrap_checked": true,
+    "glyphs_checked": 434,
+    "max_text_hook_instructions": 35319,
+    "portrait_vram_preserved": true,
+    "bg_registers": [
+      "0x1808",
+      "0x1908",
+      "0x1b01",
+      "0x1c02"
+    ],
+    "checks": "title selection, opening, inventory, map, empty enemy list, blocked save; all text via RAM-only renderer fixtures",
+    "limits": "Does not represent a full playthrough or real hardware test."
+  },
+  "scene_checks": {
+    "sha256": "8546fe59b57bcf82db0a5a9def1aa41ae4567c0c27aaa891366e5ba68bd6d2d2",
+    "fixtures": [
+      "gameover with both choices",
+      "four shops intro and item selection",
+      "ending, rolling credits, collection rate",
+      "enemy database portraits",
+      "save menu"
+    ],
+    "save_roundtrip": "not verified; direct-call harness also fails on original ROM",
+    "fixture_note": "Scene entrances and discovery list set only in emulator RAM. Shipped ROM and user saves are untouched.",
+    "database_definitions": 30,
+    "enemy_types": 30
+  }
+}

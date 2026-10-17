@@ -1,0 +1,125 @@
+[
+  {
+    "offset": "0x1abd08",
+    "text": "                      ",
+    "references": [
+      "0x808"
+    ]
+  },
+  {
+    "offset": "0x1abd20",
+    "text": "-",
+    "references": [
+      "0x1088",
+      "0x13dc"
+    ]
+  },
+  {
+    "offset": "0x1abd64",
+    "text": "%",
+    "references": [
+      "0x23b8"
+    ]
+  },
+  {
+    "offset": "0x1abd44",
+    "text": " ",
+    "references": [
+      "0x2bc8",
+      "0x2ed0",
+      "0x51d0"
+    ]
+  },
+  {
+    "offset": "0x1abd30",
+    "text": "                     ",
+    "references": [
+      "0x3814"
+    ]
+  },
+  {
+    "offset": "0x1abd0c",
+    "text": "                  ",
+    "references": [
+      "0x3818"
+    ]
+  },
+  {
+    "offset": "0x1ac844",
+    "text": "   ",
+    "references": [
+      "0x4c30"
+    ]
+  },
+  {
+    "offset": "0x1abd34",
+    "text": "                 ",
+    "references": [
+      "0xcfc0",
+      "0xd178"
+    ]
+  },
+  {
+    "offset": "0x1ac9bc",
+    "text": "Ghost",
+    "references": [
+      "0xabb10"
+    ]
+  },
+  {
+    "offset": "0x1ac42c",
+    "text": "Red Key",
+    "references": [
+      "0x1ae2d4"
+    ]
+  },
+  {
+    "offset": "0x1ac438",
+    "text": "Yellow Key",
+    "references": [
+      "0x1ae2d8"
+    ]
+  },
+  {
+    "offset": "0x1ac448",
+    "text": "Blue Key",
+    "references": [
+      "0x1ae2dc"
+    ]
+  },
+  {
+    "offset": "0x1ac4a4",
+    "text": "Arrows",
+    "references": [
+      "0x1ae2f4"
+    ]
+  },
+  {
+    "offset": "0x1ac4c8",
+    "text": "Life Potion",
+    "references": [
+      "0x1ae2fc"
+    ]
+  },
+  {
+    "offset": "0x1ac4ec",
+    "text": "Traps",
+    "references": [
+      "0x1ae304"
+    ]
+  },
+  {
+    "offset": "0x1ac4f8",
+    "text": "Ring of Attack",
+    "references": [
+      "0x1ae30c"
+    ]
+  },
+  {
+    "offset": "0x1ac50c",
+    "text": "Dynamite",
+    "references": [
+      "0x1ae310"
+    ]
+  }
+]

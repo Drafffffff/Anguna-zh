@@ -1,0 +1,420 @@
+{
+  "rom_sha256": "1df5a07fef92a526768333d041eec42d4efabfba1ad50e347b8146954ed07ff5",
+  "translation_sha256": "5a1a01594c303cd549802ebdf6a558de3538e6c4754a0c6f0f3af3a77c57135a",
+  "translation_count": 224,
+  "candidate_count": 285,
+  "preserved_count": 61,
+  "category_counts": {
+    "ending": 8,
+    "credits": 12,
+    "locations": 12,
+    "ui": 31,
+    "items": 33,
+    "story": 25,
+    "enemies": 103
+  },
+  "distinct_characters": 448,
+  "distinct_han_characters": 425,
+  "han_characters": "一三上不与丑且世东个中丸主举么之乐也书买了于些亡人什今从他以们任休伙会传伤但位住体何你使保倒偏像全关兵其具养兽内再冰冲冷冻出击分利到刻前剑剧力加务动助化匙升卫原去又双反发取只召可史同后吐向吗吧吸命和品哨唤售商喜喷四回团图土在地坑坚型墓墙壁处复外多够大头奖好如姆存守安宝害家容寒寻封射小尚就岩巨己已币常干并幸幽广序店庞异弓引弹强录影往很徊律得徘御微心忽怪恢恭息恶悉悍想意愚感慢戏成戒房所才扑找抓护拥拿持掉探提擎收攻效敌断方无时昆明暗暴更最有未本术束来样橙次死毒比毫气水沙没沿泊法洞测浑消液深清渊游湖漠火灯灵炸点烈烧焰然熟燃版牢物狱猎率王玩现球生界留疗的监盯相盾看真眼着睛矢石硬碍程稍突窜窟竟笨等箭类精糊索紧紫红终结绕继续绿缓编置美翼者而聪肩胶能自至色荡药莱获蓝藏虫蛇蛛蜂蜍蜘蝙蝠螃螫蟹蟾血行被裂西要见规计记设试诡详说谢负败赛走越路躁身辅边迅还这追退送逃速造道部里金鉴钥锋锐间阔阱防陋限除陵陷隐隘障集雕雪需霉面靴音领频飞食饥饿馈首骨骷骸髅鬼魂魔鱼鳄黄黏龙",
+  "non_han_characters": " /015:CLPRaemx—…。！（），：？",
+  "regular_max_columns_with_padding": 16,
+  "regular_max_non_edge_space_columns": 16,
+  "regular_longest_rows_with_padding": [
+    {
+      "offset": "0x1ac8d8",
+      "zh": "持有金币:         金币",
+      "columns": 16
+    }
+  ],
+  "regular_longest_rows_without_edge_padding": [
+    {
+      "offset": "0x1ac8d8",
+      "zh": "持有金币:         金币",
+      "columns": 16
+    }
+  ],
+  "map_special_rows": [
+    {
+      "offset": "0x1ac38c",
+      "source_columns": 51,
+      "translated_columns": 41,
+      "second_part_index": 37,
+      "zh": "地图：位置                                沙漠地牢"
+    },
+    {
+      "offset": "0x1ac3c0",
+      "source_columns": 49,
+      "translated_columns": 41,
+      "second_part_index": 37,
+      "zh": "地图：位置                                陵墓地牢"
+    },
+    {
+      "offset": "0x1ac3f4",
+      "source_columns": 49,
+      "translated_columns": 41,
+      "second_part_index": 37,
+      "zh": "地图：位置                                湖泊地牢"
+    }
+  ],
+  "checks": {
+    "all_source_strings_exact_match": true,
+    "all_sources_nul_terminated": true,
+    "unique_offsets": true,
+    "all_translations_fit_original_tile_column_count": true,
+    "ui_hp_slash_index": 7,
+    "shop_gold_label_index": 14
+  },
+  "manual_review": {
+    "status": "reviewed",
+    "cross_line_groups": [
+      "intro_1",
+      "intro_2",
+      "intro_3",
+      "dungeon_escape",
+      "demo_end",
+      "ending",
+      "empty_enemy_database",
+      "healer",
+      "shop",
+      "multi_line_enemy_descriptions"
+    ],
+    "terminology": "巨龙/幽灵/暗影/寒冰/史莱姆/大地精/蟾蜍人/石魔 consistent",
+    "changed_offsets": {
+      "0x1acadc": "巨大的冰雪生物",
+      "0x1ac2b0": "其相关记录会",
+      "0x1ac2c8": "收录到图鉴中。"
+    },
+    "runtime_font_check": "Pending main task; both 8px and 10px fonts must cover han_characters and punctuation."
+  },
+  "preserved_reason_counts": {
+    "binary_or_toolchain_metadata": 12,
+    "layout_whitespace": 10,
+    "layout_separator_or_numeric_symbol": 9,
+    "proper_name_brand_or_contact": 22,
+    "debug_or_source_filename": 8
+  },
+  "preserved": [
+    {
+      "offset": "0x1abceb",
+      "en": "w~v",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1abcff",
+      "en": "n<m",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1abd04",
+      "en": "                          ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1abd08",
+      "en": "                      ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1abd0c",
+      "en": "                  ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1abd20",
+      "en": "-",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1abd28",
+      "en": "                             ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1abd30",
+      "en": "                     ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1abd34",
+      "en": "                 ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1abd44",
+      "en": " ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1abd64",
+      "en": "%",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1abe24",
+      "en": "===========================",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1abe40",
+      "en": "      Nathan Tolbert",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1abe58",
+      "en": "         (gauauu)",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1abe80",
+      "en": "    =================",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1abe98",
+      "en": "    Chris Hildenbrand",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1abeb0",
+      "en": "      (Sprite Attack)",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1abee0",
+      "en": "    ==================",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1abef8",
+      "en": "          REFMAP ",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1abf58",
+      "en": "      William.ThompsonJ",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1abf88",
+      "en": "   =====================",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1abfa4",
+      "en": "   Jessie Tracer (Ekeet)",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1abfc0",
+      "en": "        Magic Fred,",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1abfd4",
+      "en": "       Nathan Tolbert",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac008",
+      "en": "  ========================",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1ac024",
+      "en": "    PimpMobile by Kusma   ",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac05c",
+      "en": "           sverx        ",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac090",
+      "en": "   ====================",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1ac0a8",
+      "en": "       Josh Wankel",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac0bc",
+      "en": "      Elijah Gioja",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac0d0",
+      "en": "        Jong Lee",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac0e4",
+      "en": "   Jasper Vijn (Cearn)",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac110",
+      "en": "    ===============",
+      "reason": "layout_separator_or_numeric_symbol"
+    },
+    {
+      "offset": "0x1ac124",
+      "en": "     Jeremy Gunkel",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac138",
+      "en": "     John Seabaugh",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac14c",
+      "en": "        Irashtar",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac160",
+      "en": "        Spiridow",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac174",
+      "en": "       Eric Chiz",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac58c",
+      "en": " -gauauu ",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac598",
+      "en": "nathantolbert(at)gmail.com",
+      "reason": "proper_name_brand_or_contact"
+    },
+    {
+      "offset": "0x1ac7f8",
+      "en": "                ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1ac82c",
+      "en": "                           ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1ac844",
+      "en": "   ",
+      "reason": "layout_whitespace"
+    },
+    {
+      "offset": "0x1ac8ec",
+      "en": "bad dead function for bullet",
+      "reason": "debug_or_source_filename"
+    },
+    {
+      "offset": "0x1ac90c",
+      "en": "nullbullet",
+      "reason": "debug_or_source_filename"
+    },
+    {
+      "offset": "0x1ac918",
+      "en": "enemy database too small",
+      "reason": "debug_or_source_filename"
+    },
+    {
+      "offset": "0x1ac934",
+      "en": "enemyDatabase.c",
+      "reason": "debug_or_source_filename"
+    },
+    {
+      "offset": "0x1ac944",
+      "en": "ASSERT ERROR:",
+      "reason": "debug_or_source_filename"
+    },
+    {
+      "offset": "0x1ac954",
+      "en": "copying slowly",
+      "reason": "debug_or_source_filename"
+    },
+    {
+      "offset": "0x1ac964",
+      "en": "misc.c",
+      "reason": "debug_or_source_filename"
+    },
+    {
+      "offset": "0x1acef0",
+      "en": "enemy death",
+      "reason": "debug_or_source_filename"
+    },
+    {
+      "offset": "0x1adcf4",
+      "en": "<PO",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1adf30",
+      "en": " PO",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1adf3c",
+      "en": "$Dc",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1adf58",
+      "en": "$Dc",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1adf74",
+      "en": "$Dc",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1adf98",
+      "en": "$Dc",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1adfb0",
+      "en": "%Dc",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1adfc8",
+      "en": "&Dc",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1adfe0",
+      "en": "'Dc",
+      "reason": "binary_or_toolchain_metadata"
+    },
+    {
+      "offset": "0x1b18e8",
+      "en": "dkARM",
+      "reason": "binary_or_toolchain_metadata"
+    }
+  ],
+  "limits": [
+    "This report covers discovered ROM string and suffix candidates, not English lettering embedded in bitmap graphics.",
+    "Candidate coverage includes intentionally preserved author names, brands, debug strings and binary false positives; no new ordinary player-visible English remained in this audit."
+  ],
+  "regular_max_non_space_glyphs": 11,
+  "regular_longest_rows_by_non_space_glyphs": [
+    {
+      "offset": "0x1abf24",
+      "zh": "   亡灵之王：Reemax",
+      "glyphs": 11
+    },
+    {
+      "offset": "0x1ac454",
+      "zh": "获得食物，生命已恢复。",
+      "glyphs": 11
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "rom": "/Users/drafff/Documents/ChatGPT/\u6c49\u5316/ANGUNA/original/Anguna-Warriors-of-Virtue.gba",
+  "sha256": "1df5a07fef92a526768333d041eec42d4efabfba1ad50e347b8146954ed07ff5",
+  "steps": [
+    {
+      "frames": 500,
+      "name": "title"
+    },
+    {
+      "frames": 1,
+      "keys": [
+        8
+      ]
+    },
+    {
+      "frames": 90,
+      "name": "intro1"
+    },
+    {
+      "frames": 1,
+      "keys": [
+        8
+      ]
+    },
+    {
+      "frames": 90,
+      "name": "intro2"
+    },
+    {
+      "frames": 1,
+      "keys": [
+        8
+      ]
+    },
+    {
+      "frames": 90,
+      "name": "intro3"
+    },
+    {
+      "frames": 1,
+      "keys": [
+        8
+      ]
+    },
+    {
+      "frames": 90,
+      "name": "game"
+    },
+    {
+      "frames": 1,
+      "keys": [
+        3
+      ]
+    },
+    {
+      "frames": 90,
+      "name": "pause"
+    },
+    {
+      "frames": 1,
+      "keys": [
+        2
+      ]
+    },
+    {
+      "frames": 90,
+      "name": "save"
+    }
+  ],
+  "audio_frames": 573392,
+  "nonzero_audio_batches": 558
+}

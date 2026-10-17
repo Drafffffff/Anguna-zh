@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+upstream/
+original/
+build/
+*.gba
+*.sav
+*.zip
+*.7z

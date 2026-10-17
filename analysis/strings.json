@@ -1,0 +1,1074 @@
+[
+  {
+    "offset": "0x1abceb",
+    "text": "w~v"
+  },
+  {
+    "offset": "0x1abcff",
+    "text": "n<m"
+  },
+  {
+    "offset": "0x1abd04",
+    "text": "                          "
+  },
+  {
+    "offset": "0x1abd28",
+    "text": "                             "
+  },
+  {
+    "offset": "0x1abd48",
+    "text": "Percentage of items found:"
+  },
+  {
+    "offset": "0x1abd68",
+    "text": " You have defeated the"
+  },
+  {
+    "offset": "0x1abd80",
+    "text": " dragon, the leader of"
+  },
+  {
+    "offset": "0x1abd98",
+    "text": " the monsters!"
+  },
+  {
+    "offset": "0x1abda8",
+    "text": " You have also finally come"
+  },
+  {
+    "offset": "0x1abdc4",
+    "text": " back to the lands you "
+  },
+  {
+    "offset": "0x1abddc",
+    "text": " recognize, and can return"
+  },
+  {
+    "offset": "0x1abdf8",
+    "text": " home in peace."
+  },
+  {
+    "offset": "0x1abe08",
+    "text": "Programming and Game Design"
+  },
+  {
+    "offset": "0x1abe24",
+    "text": "==========================="
+  },
+  {
+    "offset": "0x1abe40",
+    "text": "      Nathan Tolbert"
+  },
+  {
+    "offset": "0x1abe58",
+    "text": "         (gauauu)"
+  },
+  {
+    "offset": "0x1abe6c",
+    "text": "         Artwork"
+  },
+  {
+    "offset": "0x1abe80",
+    "text": "    ================="
+  },
+  {
+    "offset": "0x1abe98",
+    "text": "    Chris Hildenbrand"
+  },
+  {
+    "offset": "0x1abeb0",
+    "text": "      (Sprite Attack)"
+  },
+  {
+    "offset": "0x1abec8",
+    "text": "    Additional Artwork"
+  },
+  {
+    "offset": "0x1abee0",
+    "text": "    =================="
+  },
+  {
+    "offset": "0x1abef8",
+    "text": "          REFMAP "
+  },
+  {
+    "offset": "0x1abf0c",
+    "text": "    (see readme/manual)"
+  },
+  {
+    "offset": "0x1abf24",
+    "text": "   Undead-King by Reemax "
+  },
+  {
+    "offset": "0x1abf40",
+    "text": "        LPC Golem by "
+  },
+  {
+    "offset": "0x1abf58",
+    "text": "      William.ThompsonJ"
+  },
+  {
+    "offset": "0x1abf70",
+    "text": "      Music and Sound"
+  },
+  {
+    "offset": "0x1abf88",
+    "text": "   ====================="
+  },
+  {
+    "offset": "0x1abfa4",
+    "text": "   Jessie Tracer (Ekeet)"
+  },
+  {
+    "offset": "0x1abfc0",
+    "text": "        Magic Fred,"
+  },
+  {
+    "offset": "0x1abfd4",
+    "text": "       Nathan Tolbert"
+  },
+  {
+    "offset": "0x1abfec",
+    "text": "  Audio Engine Programming"
+  },
+  {
+    "offset": "0x1ac008",
+    "text": "  ========================"
+  },
+  {
+    "offset": "0x1ac024",
+    "text": "    PimpMobile by Kusma   "
+  },
+  {
+    "offset": "0x1ac040",
+    "text": "  Additional Support Code"
+  },
+  {
+    "offset": "0x1ac05c",
+    "text": "           sverx        "
+  },
+  {
+    "offset": "0x1ac078",
+    "text": "   Testing and Feedback"
+  },
+  {
+    "offset": "0x1ac090",
+    "text": "   ===================="
+  },
+  {
+    "offset": "0x1ac0a8",
+    "text": "       Josh Wankel"
+  },
+  {
+    "offset": "0x1ac0bc",
+    "text": "      Elijah Gioja"
+  },
+  {
+    "offset": "0x1ac0d0",
+    "text": "        Jong Lee"
+  },
+  {
+    "offset": "0x1ac0e4",
+    "text": "   Jasper Vijn (Cearn)"
+  },
+  {
+    "offset": "0x1ac0fc",
+    "text": "    Contest Winners"
+  },
+  {
+    "offset": "0x1ac110",
+    "text": "    ==============="
+  },
+  {
+    "offset": "0x1ac124",
+    "text": "     Jeremy Gunkel"
+  },
+  {
+    "offset": "0x1ac138",
+    "text": "     John Seabaugh"
+  },
+  {
+    "offset": "0x1ac14c",
+    "text": "        Irashtar"
+  },
+  {
+    "offset": "0x1ac160",
+    "text": "        Spiridow"
+  },
+  {
+    "offset": "0x1ac174",
+    "text": "       Eric Chiz"
+  },
+  {
+    "offset": "0x1ac188",
+    "text": "   Thanks for playing!"
+  },
+  {
+    "offset": "0x1ac1a0",
+    "text": "Treasure Cave"
+  },
+  {
+    "offset": "0x1ac1b0",
+    "text": "Ice Dungeon"
+  },
+  {
+    "offset": "0x1ac1bc",
+    "text": "Item Shop"
+  },
+  {
+    "offset": "0x1ac1c8",
+    "text": "Lake Dungeon"
+  },
+  {
+    "offset": "0x1ac1d8",
+    "text": "Healer"
+  },
+  {
+    "offset": "0x1ac1e0",
+    "text": "Western Pass"
+  },
+  {
+    "offset": "0x1ac1f0",
+    "text": "Prison Dungeon"
+  },
+  {
+    "offset": "0x1ac200",
+    "text": "Final Dungeon"
+  },
+  {
+    "offset": "0x1ac210",
+    "text": "Tomb Dungeon"
+  },
+  {
+    "offset": "0x1ac220",
+    "text": "Rock Cave"
+  },
+  {
+    "offset": "0x1ac22c",
+    "text": "Eastern Pass"
+  },
+  {
+    "offset": "0x1ac23c",
+    "text": "Desert Dungeon"
+  },
+  {
+    "offset": "0x1ac24c",
+    "text": "Stay here and rest"
+  },
+  {
+    "offset": "0x1ac260",
+    "text": "for awhile!"
+  },
+  {
+    "offset": "0x1ac26c",
+    "text": "No enemies have been"
+  },
+  {
+    "offset": "0x1ac284",
+    "text": "    defeated yet."
+  },
+  {
+    "offset": "0x1ac298",
+    "text": "Enemies will appear in"
+  },
+  {
+    "offset": "0x1ac2b0",
+    "text": "the database after they"
+  },
+  {
+    "offset": "0x1ac2c8",
+    "text": "have been defeated."
+  },
+  {
+    "offset": "0x1ac2dc",
+    "text": "Save and continue"
+  },
+  {
+    "offset": "0x1ac2f0",
+    "text": "Save and quit"
+  },
+  {
+    "offset": "0x1ac300",
+    "text": "Cancel"
+  },
+  {
+    "offset": "0x1ac308",
+    "text": "Game Saved"
+  },
+  {
+    "offset": "0x1ac314",
+    "text": "Cannot save with"
+  },
+  {
+    "offset": "0x1ac328",
+    "text": "enemies still alive."
+  },
+  {
+    "offset": "0x1ac340",
+    "text": "          Game Over"
+  },
+  {
+    "offset": "0x1ac354",
+    "text": "Food"
+  },
+  {
+    "offset": "0x1ac35c",
+    "text": "Attack Powerup"
+  },
+  {
+    "offset": "0x1ac36c",
+    "text": "Life Powerup"
+  },
+  {
+    "offset": "0x1ac37c",
+    "text": "Defense Powerup"
+  },
+  {
+    "offset": "0x1ac38c",
+    "text": "Map: Location of                     Desert Dungeon"
+  },
+  {
+    "offset": "0x1ac3c0",
+    "text": "Map: Location of                     Tomb Dungeon"
+  },
+  {
+    "offset": "0x1ac3f4",
+    "text": "Map: Location of                     Lake Dungeon"
+  },
+  {
+    "offset": "0x1ac428",
+    "text": "Got Red Key"
+  },
+  {
+    "offset": "0x1ac434",
+    "text": "Got Yellow Key"
+  },
+  {
+    "offset": "0x1ac444",
+    "text": "Got Blue Key"
+  },
+  {
+    "offset": "0x1ac454",
+    "text": "Got Food.  HP Restored."
+  },
+  {
+    "offset": "0x1ac46c",
+    "text": "Attack Power Up!"
+  },
+  {
+    "offset": "0x1ac480",
+    "text": "Max HP Up!"
+  },
+  {
+    "offset": "0x1ac48c",
+    "text": "Defense Up!"
+  },
+  {
+    "offset": "0x1ac498",
+    "text": "Got Bow and Arrows"
+  },
+  {
+    "offset": "0x1ac4ac",
+    "text": "Got Arrows"
+  },
+  {
+    "offset": "0x1ac4b8",
+    "text": "Got Lantern"
+  },
+  {
+    "offset": "0x1ac4c4",
+    "text": "Got Life Potion"
+  },
+  {
+    "offset": "0x1ac4d4",
+    "text": "Got Winged Boots"
+  },
+  {
+    "offset": "0x1ac4e8",
+    "text": "Got Traps"
+  },
+  {
+    "offset": "0x1ac4f4",
+    "text": "Got Ring of Attack"
+  },
+  {
+    "offset": "0x1ac508",
+    "text": "Got Dynamite"
+  },
+  {
+    "offset": "0x1ac518",
+    "text": "Got 100 Gold"
+  },
+  {
+    "offset": "0x1ac528",
+    "text": "Got 5 Gold"
+  },
+  {
+    "offset": "0x1ac534",
+    "text": "Got Ring of Teleportation"
+  },
+  {
+    "offset": "0x1ac550",
+    "text": "There is more to come later"
+  },
+  {
+    "offset": "0x1ac56c",
+    "text": "thanks for playing the demo!"
+  },
+  {
+    "offset": "0x1ac58c",
+    "text": " -gauauu "
+  },
+  {
+    "offset": "0x1ac598",
+    "text": "nathantolbert(at)gmail.com"
+  },
+  {
+    "offset": "0x1ac5b4",
+    "text": "Congratulations!  You "
+  },
+  {
+    "offset": "0x1ac5cc",
+    "text": "escaped from the dungeon..."
+  },
+  {
+    "offset": "0x1ac5e8",
+    "text": "But there is a whole world"
+  },
+  {
+    "offset": "0x1ac604",
+    "text": "outside to explore before"
+  },
+  {
+    "offset": "0x1ac620",
+    "text": "you can find your way "
+  },
+  {
+    "offset": "0x1ac638",
+    "text": "back home..."
+  },
+  {
+    "offset": "0x1ac648",
+    "text": "Luckily, as usual, they left"
+  },
+  {
+    "offset": "0x1ac668",
+    "text": "you with your sword in hand."
+  },
+  {
+    "offset": "0x1ac688",
+    "text": "Now all you need to do is"
+  },
+  {
+    "offset": "0x1ac6a4",
+    "text": "kill off these ugly little"
+  },
+  {
+    "offset": "0x1ac6c0",
+    "text": "guards and then get out of"
+  },
+  {
+    "offset": "0x1ac6dc",
+    "text": "here, and continue your"
+  },
+  {
+    "offset": "0x1ac6f4",
+    "text": "mission...."
+  },
+  {
+    "offset": "0x1ac700",
+    "text": "You had been on a mission"
+  },
+  {
+    "offset": "0x1ac71c",
+    "text": "to find and defeat the"
+  },
+  {
+    "offset": "0x1ac734",
+    "text": "dragon, leader of the"
+  },
+  {
+    "offset": "0x1ac74c",
+    "text": "monsters."
+  },
+  {
+    "offset": "0x1ac758",
+    "text": "But you had to go and get"
+  },
+  {
+    "offset": "0x1ac774",
+    "text": "yourself captured..."
+  },
+  {
+    "offset": "0x1ac78c",
+    "text": "  Just your luck.  You have "
+  },
+  {
+    "offset": "0x1ac7ac",
+    "text": "  been captured by "
+  },
+  {
+    "offset": "0x1ac7c0",
+    "text": "  monsters."
+  },
+  {
+    "offset": "0x1ac7cc",
+    "text": "      Again."
+  },
+  {
+    "offset": "0x1ac7dc",
+    "text": "added"
+  },
+  {
+    "offset": "0x1ac7e4",
+    "text": "to enemy database"
+  },
+  {
+    "offset": "0x1ac7f8",
+    "text": "                "
+  },
+  {
+    "offset": "0x1ac80c",
+    "text": "HP:           "
+  },
+  {
+    "offset": "0x1ac81c",
+    "text": "Damage:        "
+  },
+  {
+    "offset": "0x1ac82c",
+    "text": "                           "
+  },
+  {
+    "offset": "0x1ac848",
+    "text": "Map"
+  },
+  {
+    "offset": "0x1ac84c",
+    "text": "Items"
+  },
+  {
+    "offset": "0x1ac854",
+    "text": "Got all items"
+  },
+  {
+    "offset": "0x1ac864",
+    "text": "Enemy"
+  },
+  {
+    "offset": "0x1ac86c",
+    "text": "List"
+  },
+  {
+    "offset": "0x1ac874",
+    "text": "HP:    /"
+  },
+  {
+    "offset": "0x1ac880",
+    "text": "Attack:        "
+  },
+  {
+    "offset": "0x1ac890",
+    "text": "Defense:"
+  },
+  {
+    "offset": "0x1ac89c",
+    "text": "Enemy List"
+  },
+  {
+    "offset": "0x1ac8a8",
+    "text": "Items for sale!"
+  },
+  {
+    "offset": "0x1ac8b8",
+    "text": "Do you want to buy"
+  },
+  {
+    "offset": "0x1ac8cc",
+    "text": "something?"
+  },
+  {
+    "offset": "0x1ac8d8",
+    "text": "You have:     gold"
+  },
+  {
+    "offset": "0x1ac8ec",
+    "text": "bad dead function for bullet"
+  },
+  {
+    "offset": "0x1ac90c",
+    "text": "nullbullet"
+  },
+  {
+    "offset": "0x1ac918",
+    "text": "enemy database too small"
+  },
+  {
+    "offset": "0x1ac934",
+    "text": "enemyDatabase.c"
+  },
+  {
+    "offset": "0x1ac944",
+    "text": "ASSERT ERROR:"
+  },
+  {
+    "offset": "0x1ac954",
+    "text": "copying slowly"
+  },
+  {
+    "offset": "0x1ac964",
+    "text": "misc.c"
+  },
+  {
+    "offset": "0x1ac96c",
+    "text": "Giant Bat"
+  },
+  {
+    "offset": "0x1ac978",
+    "text": "A HUGE vampire bat"
+  },
+  {
+    "offset": "0x1ac98c",
+    "text": "Giant Enemy Crab"
+  },
+  {
+    "offset": "0x1ac9a0",
+    "text": "Causes Massive Damage"
+  },
+  {
+    "offset": "0x1ac9b8",
+    "text": "Ice Ghost"
+  },
+  {
+    "offset": "0x1ac9c4",
+    "text": "Frozen spectre"
+  },
+  {
+    "offset": "0x1ac9d4",
+    "text": "Shoots freezing breath"
+  },
+  {
+    "offset": "0x1ac9ec",
+    "text": "Dark Ghost"
+  },
+  {
+    "offset": "0x1ac9f8",
+    "text": "Neither dead or alive"
+  },
+  {
+    "offset": "0x1aca10",
+    "text": "Appears and shoots"
+  },
+  {
+    "offset": "0x1aca24",
+    "text": "Appears and disappears"
+  },
+  {
+    "offset": "0x1aca3c",
+    "text": "Ice Slime"
+  },
+  {
+    "offset": "0x1aca48",
+    "text": "Icy blob"
+  },
+  {
+    "offset": "0x1aca54",
+    "text": "Swarms the player"
+  },
+  {
+    "offset": "0x1aca68",
+    "text": "Red Slime"
+  },
+  {
+    "offset": "0x1aca74",
+    "text": "Slimy gooey blob"
+  },
+  {
+    "offset": "0x1aca88",
+    "text": "Multiplies when killed"
+  },
+  {
+    "offset": "0x1acaa0",
+    "text": "Blue Slime"
+  },
+  {
+    "offset": "0x1acaac",
+    "text": "Slowly wanders around"
+  },
+  {
+    "offset": "0x1acac4",
+    "text": "the room."
+  },
+  {
+    "offset": "0x1acad0",
+    "text": "Ice Golem"
+  },
+  {
+    "offset": "0x1acadc",
+    "text": "Giant ice creature"
+  },
+  {
+    "offset": "0x1acaf0",
+    "text": "Ice cold,"
+  },
+  {
+    "offset": "0x1acafc",
+    "text": "tough as nails"
+  },
+  {
+    "offset": "0x1acb0c",
+    "text": "Ice Serpent"
+  },
+  {
+    "offset": "0x1acb18",
+    "text": "Snake from the icy depths"
+  },
+  {
+    "offset": "0x1acb34",
+    "text": "Comes out of"
+  },
+  {
+    "offset": "0x1acb44",
+    "text": "pits and"
+  },
+  {
+    "offset": "0x1acb50",
+    "text": "breathes ice"
+  },
+  {
+    "offset": "0x1acb60",
+    "text": "Pit Serpent"
+  },
+  {
+    "offset": "0x1acb6c",
+    "text": "Snake from the depths"
+  },
+  {
+    "offset": "0x1acb84",
+    "text": "breathes fire"
+  },
+  {
+    "offset": "0x1acb94",
+    "text": "boulder"
+  },
+  {
+    "offset": "0x1acb9c",
+    "text": "Red Toady"
+  },
+  {
+    "offset": "0x1acba8",
+    "text": "Angry Man-Toad"
+  },
+  {
+    "offset": "0x1acbb8",
+    "text": "Not quite as stupid "
+  },
+  {
+    "offset": "0x1acbd0",
+    "text": "as the green one"
+  },
+  {
+    "offset": "0x1acbe4",
+    "text": "Green Toady"
+  },
+  {
+    "offset": "0x1acbf0",
+    "text": "Dim-witted Man-Toad"
+  },
+  {
+    "offset": "0x1acc04",
+    "text": "Meanders slowly, but "
+  },
+  {
+    "offset": "0x1acc1c",
+    "text": "charges on sight."
+  },
+  {
+    "offset": "0x1acc30",
+    "text": "Ogre Skeleton"
+  },
+  {
+    "offset": "0x1acc40",
+    "text": "A giant wandering"
+  },
+  {
+    "offset": "0x1acc54",
+    "text": "pile of bones"
+  },
+  {
+    "offset": "0x1acc64",
+    "text": "Shield Hobgoblin"
+  },
+  {
+    "offset": "0x1acc78",
+    "text": "Carried a big shield"
+  },
+  {
+    "offset": "0x1acc90",
+    "text": "This guy can defend"
+  },
+  {
+    "offset": "0x1acca4",
+    "text": "himself"
+  },
+  {
+    "offset": "0x1accac",
+    "text": "Snake"
+  },
+  {
+    "offset": "0x1accb4",
+    "text": "Venomous Serpent"
+  },
+  {
+    "offset": "0x1accc8",
+    "text": "Wanders slowly, "
+  },
+  {
+    "offset": "0x1accdc",
+    "text": "strikes at once"
+  },
+  {
+    "offset": "0x1accec",
+    "text": "Dark Vampire"
+  },
+  {
+    "offset": "0x1accfc",
+    "text": "Master of bats"
+  },
+  {
+    "offset": "0x1acd0c",
+    "text": "Meanders quickly, "
+  },
+  {
+    "offset": "0x1acd20",
+    "text": "spawning bats"
+  },
+  {
+    "offset": "0x1acd30",
+    "text": "Vampire"
+  },
+  {
+    "offset": "0x1acd38",
+    "text": "Meanders slowly, "
+  },
+  {
+    "offset": "0x1acd4c",
+    "text": "Spider"
+  },
+  {
+    "offset": "0x1acd54",
+    "text": "An overgrown spider"
+  },
+  {
+    "offset": "0x1acd68",
+    "text": "Venomous and hungry"
+  },
+  {
+    "offset": "0x1acd7c",
+    "text": "Hobgoblin Sentry"
+  },
+  {
+    "offset": "0x1acd90",
+    "text": "Watches for the player"
+  },
+  {
+    "offset": "0x1acda8",
+    "text": "Keeps a keen eye"
+  },
+  {
+    "offset": "0x1acdbc",
+    "text": "out for you"
+  },
+  {
+    "offset": "0x1acdc8",
+    "text": "FireCroc"
+  },
+  {
+    "offset": "0x1acdd4",
+    "text": "Fire breathing Crocodile"
+  },
+  {
+    "offset": "0x1acdf0",
+    "text": "Spits 3 fireballs"
+  },
+  {
+    "offset": "0x1ace04",
+    "text": "at a time."
+  },
+  {
+    "offset": "0x1ace10",
+    "text": "Dragon"
+  },
+  {
+    "offset": "0x1ace18",
+    "text": "Fire-Breathing beast"
+  },
+  {
+    "offset": "0x1ace30",
+    "text": "The boss of all"
+  },
+  {
+    "offset": "0x1ace40",
+    "text": "the monsters"
+  },
+  {
+    "offset": "0x1ace50",
+    "text": "Red Bat"
+  },
+  {
+    "offset": "0x1ace58",
+    "text": "An angrier vampire bat"
+  },
+  {
+    "offset": "0x1ace70",
+    "text": "Can fly over obstacles"
+  },
+  {
+    "offset": "0x1ace88",
+    "text": "Wasp"
+  },
+  {
+    "offset": "0x1ace90",
+    "text": "Overgrown stinging bug"
+  },
+  {
+    "offset": "0x1acea8",
+    "text": "Flies around, looking"
+  },
+  {
+    "offset": "0x1acec0",
+    "text": "for prey"
+  },
+  {
+    "offset": "0x1acecc",
+    "text": "Dark Bat"
+  },
+  {
+    "offset": "0x1aced8",
+    "text": "An angry vampire bat"
+  },
+  {
+    "offset": "0x1acef0",
+    "text": "enemy death"
+  },
+  {
+    "offset": "0x1acefc",
+    "text": "Green Slime"
+  },
+  {
+    "offset": "0x1acf08",
+    "text": "Slimy little green blob"
+  },
+  {
+    "offset": "0x1acf20",
+    "text": "Zips back and forth in "
+  },
+  {
+    "offset": "0x1acf38",
+    "text": "random movements."
+  },
+  {
+    "offset": "0x1acf4c",
+    "text": "Will O Wisp"
+  },
+  {
+    "offset": "0x1acf58",
+    "text": "Eerie burning flame"
+  },
+  {
+    "offset": "0x1acf6c",
+    "text": "Circles along the wall"
+  },
+  {
+    "offset": "0x1acf84",
+    "text": "fire statue"
+  },
+  {
+    "offset": "0x1acf90",
+    "text": "Purple Slime"
+  },
+  {
+    "offset": "0x1acfa0",
+    "text": "Gross purple blob"
+  },
+  {
+    "offset": "0x1acfb4",
+    "text": "Retreats while "
+  },
+  {
+    "offset": "0x1acfc4",
+    "text": "spitting"
+  },
+  {
+    "offset": "0x1acfd0",
+    "text": "Orange Slime"
+  },
+  {
+    "offset": "0x1acfe0",
+    "text": "Gross orange blob"
+  },
+  {
+    "offset": "0x1acff4",
+    "text": "Spits blobs of goo."
+  },
+  {
+    "offset": "0x1ad008",
+    "text": "Big Ghost"
+  },
+  {
+    "offset": "0x1ad014",
+    "text": "Giant Ghost"
+  },
+  {
+    "offset": "0x1ad020",
+    "text": "Bigger and tougher"
+  },
+  {
+    "offset": "0x1ad034",
+    "text": "then the"
+  },
+  {
+    "offset": "0x1ad040",
+    "text": "little ones"
+  },
+  {
+    "offset": "0x1adcf4",
+    "text": "<PO"
+  },
+  {
+    "offset": "0x1adf30",
+    "text": " PO"
+  },
+  {
+    "offset": "0x1adf3c",
+    "text": "$Dc"
+  },
+  {
+    "offset": "0x1adf58",
+    "text": "$Dc"
+  },
+  {
+    "offset": "0x1adf74",
+    "text": "$Dc"
+  },
+  {
+    "offset": "0x1adf98",
+    "text": "$Dc"
+  },
+  {
+    "offset": "0x1adfb0",
+    "text": "%Dc"
+  },
+  {
+    "offset": "0x1adfc8",
+    "text": "&Dc"
+  },
+  {
+    "offset": "0x1adfe0",
+    "text": "'Dc"
+  },
+  {
+    "offset": "0x1b18e8",
+    "text": "dkARM"
+  }
+]

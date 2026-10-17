@@ -1,0 +1,18 @@
+{
+  "sha256": "8546fe59b57bcf82db0a5a9def1aa41ae4567c0c27aaa891366e5ba68bd6d2d2",
+  "translated_records_checked": 224,
+  "opening_12px_pages_checked": 3,
+  "ending_12px_lines_checked": 7,
+  "credit_row_wrap_checked": true,
+  "glyphs_checked": 434,
+  "max_text_hook_instructions": 35319,
+  "portrait_vram_preserved": true,
+  "bg_registers": [
+    "0x1808",
+    "0x1908",
+    "0x1b01",
+    "0x1c02"
+  ],
+  "checks": "title selection, opening, inventory, map, empty enemy list, blocked save; all text via RAM-only renderer fixtures",
+  "limits": "Does not represent a full playthrough or real hardware test."
+}

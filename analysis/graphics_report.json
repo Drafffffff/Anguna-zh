@@ -1,0 +1,24 @@
+{
+  "title": {
+    "tiles_used": 435,
+    "tiles_capacity": 456,
+    "map_offset": "0x2d828",
+    "tiles_offset": "0x2dda8",
+    "palette_unchanged": true,
+    "selection_indices": [
+      254,
+      255
+    ]
+  },
+  "gameover": {
+    "tiles_used": 404,
+    "tiles_capacity": 437,
+    "map_offset": "0x3a648",
+    "tiles_offset": "0x3abc8",
+    "palette_unchanged": true,
+    "selection_indices": [
+      16,
+      33
+    ]
+  }
+}

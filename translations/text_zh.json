@@ -1,0 +1,1346 @@
+[
+  {
+    "offset": "0x1abd48",
+    "en": "Percentage of items found:",
+    "zh": "物品收集率:",
+    "category": "ending"
+  },
+  {
+    "offset": "0x1abd68",
+    "en": " You have defeated the",
+    "zh": " 你击败了",
+    "category": "ending"
+  },
+  {
+    "offset": "0x1abd80",
+    "en": " dragon, the leader of",
+    "zh": " 怪物们的首领——",
+    "category": "ending"
+  },
+  {
+    "offset": "0x1abd98",
+    "en": " the monsters!",
+    "zh": " 巨龙！",
+    "category": "ending"
+  },
+  {
+    "offset": "0x1abda8",
+    "en": " You have also finally come",
+    "zh": " 你也终于回到了",
+    "category": "ending"
+  },
+  {
+    "offset": "0x1abdc4",
+    "en": " back to the lands you ",
+    "zh": " 熟悉的土地。",
+    "category": "ending"
+  },
+  {
+    "offset": "0x1abddc",
+    "en": " recognize, and can return",
+    "zh": " 如今可以安心",
+    "category": "ending"
+  },
+  {
+    "offset": "0x1abdf8",
+    "en": " home in peace.",
+    "zh": " 回家了。",
+    "category": "ending"
+  },
+  {
+    "offset": "0x1abe08",
+    "en": "Programming and Game Design",
+    "zh": "        程序与游戏设计",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1abe6c",
+    "en": "         Artwork",
+    "zh": "          美术",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1abec8",
+    "en": "    Additional Artwork",
+    "zh": "        追加美术",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1abf0c",
+    "en": "    (see readme/manual)",
+    "zh": "       （详见说明书）",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1abf24",
+    "en": "   Undead-King by Reemax ",
+    "zh": "   亡灵之王：Reemax",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1abf40",
+    "en": "        LPC Golem by ",
+    "zh": "       LPC石魔：",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1abf70",
+    "en": "      Music and Sound",
+    "zh": "        音乐与音效",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1abfec",
+    "en": "  Audio Engine Programming",
+    "zh": "       音频引擎编程",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1ac040",
+    "en": "  Additional Support Code",
+    "zh": "        辅助程序",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1ac078",
+    "en": "   Testing and Feedback",
+    "zh": "        测试与反馈",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1ac0fc",
+    "en": "    Contest Winners",
+    "zh": "        比赛获奖者",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1ac188",
+    "en": "   Thanks for playing!",
+    "zh": "       感谢游玩！",
+    "category": "credits"
+  },
+  {
+    "offset": "0x1ac1a0",
+    "en": "Treasure Cave",
+    "zh": "藏宝洞窟",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac1b0",
+    "en": "Ice Dungeon",
+    "zh": "寒冰地牢",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac1bc",
+    "en": "Item Shop",
+    "zh": "道具商店",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac1c8",
+    "en": "Lake Dungeon",
+    "zh": "湖泊地牢",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac1d8",
+    "en": "Healer",
+    "zh": "疗养所",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac1e0",
+    "en": "Western Pass",
+    "zh": "西部关隘",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac1f0",
+    "en": "Prison Dungeon",
+    "zh": "监狱地牢",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac200",
+    "en": "Final Dungeon",
+    "zh": "最终地牢",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac210",
+    "en": "Tomb Dungeon",
+    "zh": "陵墓地牢",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac220",
+    "en": "Rock Cave",
+    "zh": "岩石洞窟",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac22c",
+    "en": "Eastern Pass",
+    "zh": "东部关隘",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac23c",
+    "en": "Desert Dungeon",
+    "zh": "沙漠地牢",
+    "category": "locations"
+  },
+  {
+    "offset": "0x1ac24c",
+    "en": "Stay here and rest",
+    "zh": "留在这里",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac260",
+    "en": "for awhile!",
+    "zh": "好好休息吧！",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac26c",
+    "en": "No enemies have been",
+    "zh": "尚未击败",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac284",
+    "en": "    defeated yet.",
+    "zh": "任何敌人。",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac298",
+    "en": "Enemies will appear in",
+    "zh": "击败敌人后，",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac2b0",
+    "en": "the database after they",
+    "zh": "其相关记录会",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac2c8",
+    "en": "have been defeated.",
+    "zh": "收录到图鉴中。",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac2dc",
+    "en": "Save and continue",
+    "zh": "保存并继续",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac2f0",
+    "en": "Save and quit",
+    "zh": "保存并退出",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac300",
+    "en": "Cancel",
+    "zh": "取消",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac308",
+    "en": "Game Saved",
+    "zh": "游戏已保存",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac314",
+    "en": "Cannot save with",
+    "zh": "敌人尚未清除，",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac328",
+    "en": "enemies still alive.",
+    "zh": "无法保存。",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac340",
+    "en": "          Game Over",
+    "zh": "          游戏结束",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac354",
+    "en": "Food",
+    "zh": "食物",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac35c",
+    "en": "Attack Powerup",
+    "zh": "攻击强化",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac36c",
+    "en": "Life Powerup",
+    "zh": "生命强化",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac37c",
+    "en": "Defense Powerup",
+    "zh": "防御强化",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac38c",
+    "en": "Map: Location of                     Desert Dungeon",
+    "zh": "地图：位置                                沙漠地牢",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac3c0",
+    "en": "Map: Location of                     Tomb Dungeon",
+    "zh": "地图：位置                                陵墓地牢",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac3f4",
+    "en": "Map: Location of                     Lake Dungeon",
+    "zh": "地图：位置                                湖泊地牢",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac428",
+    "en": "Got Red Key",
+    "zh": "获得红钥匙",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac42c",
+    "en": "Red Key",
+    "zh": "红钥匙",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac434",
+    "en": "Got Yellow Key",
+    "zh": "获得黄钥匙",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac438",
+    "en": "Yellow Key",
+    "zh": "黄钥匙",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac444",
+    "en": "Got Blue Key",
+    "zh": "获得蓝钥匙",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac448",
+    "en": "Blue Key",
+    "zh": "蓝钥匙",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac454",
+    "en": "Got Food.  HP Restored.",
+    "zh": "获得食物，生命已恢复。",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac46c",
+    "en": "Attack Power Up!",
+    "zh": "攻击力提升！",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac480",
+    "en": "Max HP Up!",
+    "zh": "生命上限提升！",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac48c",
+    "en": "Defense Up!",
+    "zh": "防御力提升！",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac498",
+    "en": "Got Bow and Arrows",
+    "zh": "获得弓箭",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4a4",
+    "en": "Arrows",
+    "zh": "箭矢",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4ac",
+    "en": "Got Arrows",
+    "zh": "获得箭矢",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4b8",
+    "en": "Got Lantern",
+    "zh": "获得提灯",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4c4",
+    "en": "Got Life Potion",
+    "zh": "获得生命药水",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4c8",
+    "en": "Life Potion",
+    "zh": "生命药水",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4d4",
+    "en": "Got Winged Boots",
+    "zh": "获得飞翼靴",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4e8",
+    "en": "Got Traps",
+    "zh": "获得陷阱",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4ec",
+    "en": "Traps",
+    "zh": "陷阱",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4f4",
+    "en": "Got Ring of Attack",
+    "zh": "获得攻击之戒",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac4f8",
+    "en": "Ring of Attack",
+    "zh": "攻击之戒",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac508",
+    "en": "Got Dynamite",
+    "zh": "获得炸药",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac50c",
+    "en": "Dynamite",
+    "zh": "炸药",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac518",
+    "en": "Got 100 Gold",
+    "zh": "获得100金币",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac528",
+    "en": "Got 5 Gold",
+    "zh": "获得5金币",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac534",
+    "en": "Got Ring of Teleportation",
+    "zh": "获得传送之戒",
+    "category": "items"
+  },
+  {
+    "offset": "0x1ac550",
+    "en": "There is more to come later",
+    "zh": "后续还有更多内容，",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac56c",
+    "en": "thanks for playing the demo!",
+    "zh": "感谢游玩试玩版！",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac5b4",
+    "en": "Congratulations!  You ",
+    "zh": "恭喜你！",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac5cc",
+    "en": "escaped from the dungeon...",
+    "zh": "你逃出了地牢……",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac5e8",
+    "en": "But there is a whole world",
+    "zh": "但外面还有广阔的世界",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac604",
+    "en": "outside to explore before",
+    "zh": "等着你去探索，",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac620",
+    "en": "you can find your way ",
+    "zh": "之后才能找到",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac638",
+    "en": "back home...",
+    "zh": "回家的路……",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac648",
+    "en": "Luckily, as usual, they left",
+    "zh": "所幸，和往常一样，",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac668",
+    "en": "you with your sword in hand.",
+    "zh": "他们没有拿走你的剑。",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac688",
+    "en": "Now all you need to do is",
+    "zh": "现在，你只需要",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac6a4",
+    "en": "kill off these ugly little",
+    "zh": "干掉这些丑陋的",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac6c0",
+    "en": "guards and then get out of",
+    "zh": "小守卫，再逃出",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac6dc",
+    "en": "here, and continue your",
+    "zh": "这个地方，继续",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac6f4",
+    "en": "mission....",
+    "zh": "你的任务……",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac700",
+    "en": "You had been on a mission",
+    "zh": "你原本肩负使命，",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac71c",
+    "en": "to find and defeat the",
+    "zh": "前去寻找并击败",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac734",
+    "en": "dragon, leader of the",
+    "zh": "怪物们的首领——",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac74c",
+    "en": "monsters.",
+    "zh": "巨龙。",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac758",
+    "en": "But you had to go and get",
+    "zh": "可你偏偏",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac774",
+    "en": "yourself captured...",
+    "zh": "被抓住了……",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac78c",
+    "en": "  Just your luck.  You have ",
+    "zh": "  真倒霉。你竟然",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac7ac",
+    "en": "  been captured by ",
+    "zh": "  被怪物",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac7c0",
+    "en": "  monsters.",
+    "zh": "  抓住了。",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac7cc",
+    "en": "      Again.",
+    "zh": "      又一次。",
+    "category": "story"
+  },
+  {
+    "offset": "0x1ac7dc",
+    "en": "added",
+    "zh": "已收录",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac7e4",
+    "en": "to enemy database",
+    "zh": "至敌人图鉴",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac80c",
+    "en": "HP:           ",
+    "zh": "生命:           ",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac81c",
+    "en": "Damage:        ",
+    "zh": "伤害:            ",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac848",
+    "en": "Map",
+    "zh": "地图",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac84c",
+    "en": "Items",
+    "zh": "物品",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac854",
+    "en": "Got all items",
+    "zh": "已获得全部物品",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac864",
+    "en": "Enemy",
+    "zh": "敌人",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac86c",
+    "en": "List",
+    "zh": "图鉴",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac874",
+    "en": "HP:    /",
+    "zh": "生命:    /",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac880",
+    "en": "Attack:        ",
+    "zh": "攻击:            ",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac890",
+    "en": "Defense:",
+    "zh": "防御:",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac89c",
+    "en": "Enemy List",
+    "zh": "敌人图鉴",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac8a8",
+    "en": "Items for sale!",
+    "zh": "道具出售！",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac8b8",
+    "en": "Do you want to buy",
+    "zh": "想买点",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac8cc",
+    "en": "something?",
+    "zh": "什么吗？",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac8d8",
+    "en": "You have:     gold",
+    "zh": "持有金币:         金币",
+    "category": "ui"
+  },
+  {
+    "offset": "0x1ac96c",
+    "en": "Giant Bat",
+    "zh": "巨型蝙蝠",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac978",
+    "en": "A HUGE vampire bat",
+    "zh": "体型庞大的吸血蝙蝠",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac98c",
+    "en": "Giant Enemy Crab",
+    "zh": "巨型螃蟹",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac9a0",
+    "en": "Causes Massive Damage",
+    "zh": "能造成巨大伤害",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac9b8",
+    "en": "Ice Ghost",
+    "zh": "寒冰幽灵",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac9bc",
+    "en": "Ghost",
+    "zh": "幽灵",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac9c4",
+    "en": "Frozen spectre",
+    "zh": "冰封的幽魂",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac9d4",
+    "en": "Shoots freezing breath",
+    "zh": "吐出冰冻气息",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac9ec",
+    "en": "Dark Ghost",
+    "zh": "暗影幽灵",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ac9f8",
+    "en": "Neither dead or alive",
+    "zh": "徘徊于生死之间",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aca10",
+    "en": "Appears and shoots",
+    "zh": "现身并发射弹丸",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aca24",
+    "en": "Appears and disappears",
+    "zh": "忽隐忽现",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aca3c",
+    "en": "Ice Slime",
+    "zh": "寒冰史莱姆",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aca48",
+    "en": "Icy blob",
+    "zh": "冰冷的胶团",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aca54",
+    "en": "Swarms the player",
+    "zh": "蜂拥扑向你",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aca68",
+    "en": "Red Slime",
+    "zh": "红史莱姆",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aca74",
+    "en": "Slimy gooey blob",
+    "zh": "黏糊糊的胶团",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aca88",
+    "en": "Multiplies when killed",
+    "zh": "被击败时会分裂",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acaa0",
+    "en": "Blue Slime",
+    "zh": "蓝史莱姆",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acaac",
+    "en": "Slowly wanders around",
+    "zh": "在房间里",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acac4",
+    "en": "the room.",
+    "zh": "缓慢游荡。",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acad0",
+    "en": "Ice Golem",
+    "zh": "寒冰石魔",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acadc",
+    "en": "Giant ice creature",
+    "zh": "巨大的冰雪生物",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acaf0",
+    "en": "Ice cold,",
+    "zh": "浑身冰冷，",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acafc",
+    "en": "tough as nails",
+    "zh": "坚硬无比",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb0c",
+    "en": "Ice Serpent",
+    "zh": "寒冰巨蛇",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb18",
+    "en": "Snake from the icy depths",
+    "zh": "来自冰封深处的蛇",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb34",
+    "en": "Comes out of",
+    "zh": "从深坑中",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb44",
+    "en": "pits and",
+    "zh": "探出头来",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb50",
+    "en": "breathes ice",
+    "zh": "吐出寒气",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb60",
+    "en": "Pit Serpent",
+    "zh": "深坑巨蛇",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb6c",
+    "en": "Snake from the depths",
+    "zh": "来自深渊的蛇",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb84",
+    "en": "breathes fire",
+    "zh": "喷出火焰",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb94",
+    "en": "boulder",
+    "zh": "巨石",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acb9c",
+    "en": "Red Toady",
+    "zh": "红蟾蜍人",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acba8",
+    "en": "Angry Man-Toad",
+    "zh": "暴躁的蟾蜍人",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acbb8",
+    "en": "Not quite as stupid ",
+    "zh": "比绿色的同类",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acbd0",
+    "en": "as the green one",
+    "zh": "稍微聪明一些",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acbe4",
+    "en": "Green Toady",
+    "zh": "绿蟾蜍人",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acbf0",
+    "en": "Dim-witted Man-Toad",
+    "zh": "愚笨的蟾蜍人",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acc04",
+    "en": "Meanders slowly, but ",
+    "zh": "缓慢游荡，",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acc1c",
+    "en": "charges on sight.",
+    "zh": "看见你就冲锋。",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acc30",
+    "en": "Ogre Skeleton",
+    "zh": "食人魔骷髅",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acc40",
+    "en": "A giant wandering",
+    "zh": "四处游荡的",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acc54",
+    "en": "pile of bones",
+    "zh": "巨大骸骨",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acc64",
+    "en": "Shield Hobgoblin",
+    "zh": "持盾大地精",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acc78",
+    "en": "Carried a big shield",
+    "zh": "举着一面大盾",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acc90",
+    "en": "This guy can defend",
+    "zh": "这个家伙很会",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acca4",
+    "en": "himself",
+    "zh": "保护自己",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1accac",
+    "en": "Snake",
+    "zh": "蛇",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1accb4",
+    "en": "Venomous Serpent",
+    "zh": "剧毒的蛇",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1accc8",
+    "en": "Wanders slowly, ",
+    "zh": "缓慢游走，",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1accdc",
+    "en": "strikes at once",
+    "zh": "突然发动攻击",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1accec",
+    "en": "Dark Vampire",
+    "zh": "暗影吸血鬼",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1accfc",
+    "en": "Master of bats",
+    "zh": "蝙蝠的主人",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd0c",
+    "en": "Meanders quickly, ",
+    "zh": "迅速游荡，",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd20",
+    "en": "spawning bats",
+    "zh": "不断召唤蝙蝠",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd30",
+    "en": "Vampire",
+    "zh": "吸血鬼",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd38",
+    "en": "Meanders slowly, ",
+    "zh": "缓慢游荡，",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd4c",
+    "en": "Spider",
+    "zh": "蜘蛛",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd54",
+    "en": "An overgrown spider",
+    "zh": "体型巨大的蜘蛛",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd68",
+    "en": "Venomous and hungry",
+    "zh": "饥饿而且有毒",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd7c",
+    "en": "Hobgoblin Sentry",
+    "zh": "大地精哨兵",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acd90",
+    "en": "Watches for the player",
+    "zh": "时刻留意你的动向",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acda8",
+    "en": "Keeps a keen eye",
+    "zh": "一双锐利的眼睛",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acdbc",
+    "en": "out for you",
+    "zh": "紧紧盯着你",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acdc8",
+    "en": "FireCroc",
+    "zh": "喷火鳄",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acdd4",
+    "en": "Fire breathing Crocodile",
+    "zh": "能喷火的鳄鱼",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acdf0",
+    "en": "Spits 3 fireballs",
+    "zh": "一次吐出",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace04",
+    "en": "at a time.",
+    "zh": "三个火球。",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace10",
+    "en": "Dragon",
+    "zh": "巨龙",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace18",
+    "en": "Fire-Breathing beast",
+    "zh": "喷吐烈焰的巨兽",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace30",
+    "en": "The boss of all",
+    "zh": "所有怪物的",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace40",
+    "en": "the monsters",
+    "zh": "首领",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace50",
+    "en": "Red Bat",
+    "zh": "红蝙蝠",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace58",
+    "en": "An angrier vampire bat",
+    "zh": "更加暴躁的吸血蝙蝠",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace70",
+    "en": "Can fly over obstacles",
+    "zh": "能够飞越障碍",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace88",
+    "en": "Wasp",
+    "zh": "黄蜂",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ace90",
+    "en": "Overgrown stinging bug",
+    "zh": "体型巨大的螫人昆虫",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acea8",
+    "en": "Flies around, looking",
+    "zh": "四处飞行，",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acec0",
+    "en": "for prey",
+    "zh": "寻找猎物",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acecc",
+    "en": "Dark Bat",
+    "zh": "暗影蝙蝠",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1aced8",
+    "en": "An angry vampire bat",
+    "zh": "暴躁的吸血蝙蝠",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acefc",
+    "en": "Green Slime",
+    "zh": "绿史莱姆",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acf08",
+    "en": "Slimy little green blob",
+    "zh": "黏糊糊的绿色小胶团",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acf20",
+    "en": "Zips back and forth in ",
+    "zh": "毫无规律地",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acf38",
+    "en": "random movements.",
+    "zh": "来回窜动。",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acf4c",
+    "en": "Will O Wisp",
+    "zh": "鬼火",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acf58",
+    "en": "Eerie burning flame",
+    "zh": "诡异的燃烧火焰",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acf6c",
+    "en": "Circles along the wall",
+    "zh": "沿着墙壁绕行",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acf84",
+    "en": "fire statue",
+    "zh": "喷火雕像",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acf90",
+    "en": "Purple Slime",
+    "zh": "紫史莱姆",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acfa0",
+    "en": "Gross purple blob",
+    "zh": "恶心的紫色胶团",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acfb4",
+    "en": "Retreats while ",
+    "zh": "一边后退",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acfc4",
+    "en": "spitting",
+    "zh": "一边喷吐",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acfd0",
+    "en": "Orange Slime",
+    "zh": "橙史莱姆",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acfe0",
+    "en": "Gross orange blob",
+    "zh": "恶心的橙色胶团",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1acff4",
+    "en": "Spits blobs of goo.",
+    "zh": "喷出黏液团。",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ad008",
+    "en": "Big Ghost",
+    "zh": "巨型幽灵",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ad014",
+    "en": "Giant Ghost",
+    "zh": "巨大的幽灵",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ad020",
+    "en": "Bigger and tougher",
+    "zh": "比小型幽灵",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ad034",
+    "en": "then the",
+    "zh": "更大，",
+    "category": "enemies"
+  },
+  {
+    "offset": "0x1ad040",
+    "en": "little ones",
+    "zh": "也更强悍",
+    "category": "enemies"
+  }
+]
